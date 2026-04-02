@@ -1,5 +1,13 @@
 # BUET-EEE-Projects
 
+## Level 2 Term 1
+---
+* [EEE 212 | Numerical Technique Laboratory | NUMERICALLY SOLVING THE TIME INDEPENDENT SCHRODINGER EQUATION IN THE 1-DIMENSIONAL POTENTIAL WELL TO FIND THE WAVE FUNCTION]((https://github.com/Rafeed272/EEE-212))
+
+## Level 2 Term 2
+---
+* [EEE 208 | Electronics Circuit II Laboratory  | Speed Control of DC Motor Using Pulse Width Modulation]((https://github.com/Rafeed272/EEE-208-S-))
+
 ## Level 3 Term 1
 ---
 * [EEE 312 | Digital Signal Processing Laboratory I | Image Denoising Using Filters](https://github.com/Rafeed272/Image-Denoising-Using-Filters)

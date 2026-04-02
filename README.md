@@ -16,14 +16,16 @@
 
 ## Level 3 Term 2
 ---
-* [EEE 304 | Digital Electronics Laboratory | FPGA-based Vending Machine](https://github.com/Rafeed272/Design-and-Implementation-of-an-FPGA-Based-Vending-Machine-Using-Verilog)
-* [EEE 318 | Control Systems Laboratory | Medical Waste Segregation](https://github.com/Rafeed272/Medical-Waste-Segregation-Using-Conveyor-Belt)
+* [EEE 304 | Digital Electronics Laboratory | Design and Implementation of FPGA-based Vending Machine using Verilog](https://github.com/Rafeed272/Design-and-Implementation-of-an-FPGA-Based-Vending-Machine-Using-Verilog)
+* [EEE 318 | Control Systems Laboratory | Medical Waste Segregation Using Conveyor Belt](https://github.com/Rafeed272/Medical-Waste-Segregation-Using-Conveyor-Belt)
 * [EEE 316 | Power Electronics Laboratory | Multifunctional Solar Inverter](https://github.com/Rafeed272/Multifunctional-Solar-Inverter/tree/main)
 
 ## Level 4 Term 1
 ---
-* [EEE 466 | Analog Integrated Circuits Laboratory | Class-A RF Power Amplifier](https://github.com/Rafeed272/Design-and-Simulation-of-a-Class-A-RF-Power-Amplifier-for-the-GSM-900-MHz-Band-Using-CE-Topology)
-* [EEE 416 | Microprocessors and Embedded Systems Laboratory | Smart Baby Cradle](https://github.com/Rafeed272/Smart-Baby-Cradle-)
+* [EEE 466 | Analog Integrated Circuits Laboratory | Design and Simulation of a Class-A RF Power Amplifier for the GSM 900 MHz Band Using
+Common-Emitter Topology](https://github.com/Rafeed272/Design-and-Simulation-of-a-Class-A-RF-Power-Amplifier-for-the-GSM-900-MHz-Band-Using-CE-Topology)
+* [EEE 416 | Microprocessors and Embedded Systems Laboratory | Smart Baby Cradle: An IoT-Based Infant Monitoring and Care System
+](https://github.com/Rafeed272/Smart-Baby-Cradle-)
 
 ## Level 4 Term 1
 ---

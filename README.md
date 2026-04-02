@@ -4,6 +4,7 @@
 ---
 * [EEE 312 | Digital Signal Processing Laboratory I | Image Denoising Using Filters](https://github.com/Rafeed272/Image-Denoising-Using-Filters)
 * [EEE 310 | Communications Laboratory I | Laser-Based Voice Transmission System](https://github.com/Rafeed272/Laser-Based-Voice-Transmission-System)
+* [EEE 306 | Power Systems I Laboratory | Solar and Wind Based Power Plant Modelling and Effect of Overload Fault in IEEE 6-BUS System](https://github.com/Rafeed272/Solar-and-Wind-Based-Power-Plant-Modelling-and-Effect-of-Overload-Fault-in-IEEE-6-BUS-System)
 
 ## Level 3 Term 2
 ---

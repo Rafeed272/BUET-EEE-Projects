@@ -1,5 +1,10 @@
 # BUET-EEE-Projects
 
+## Level 3 Term 1
+---
+* [EEE 312 | Digital Signal Processing Laboratory I | Image Denoising Using Filters](https://github.com/Rafeed272/Image-Denoising-Using-Filters)
+* [EEE 310 | Communications Laboratory I | Laser-Based Voice Transmission System](https://github.com/Rafeed272/Laser-Based-Voice-Transmission-System)
+
 ## Level 3 Term 2
 ---
 * [EEE 304 | Digital Electronics Laboratory | FPGA-based Vending Machine](https://github.com/Rafeed272/Design-and-Implementation-of-an-FPGA-Based-Vending-Machine-Using-Verilog)

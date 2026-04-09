@@ -31,5 +31,5 @@ Common-Emitter Topology](https://github.com/Rafeed272/Design-and-Simulation-of-a
 ---
 * [EEE 414 | Electrical Service Design | Design of a 9-Storied Building in AUTOCAD 2026](https://github.com/Rafeed272/9-Storied-Building-Design-AUTOCAD-2026)
 * [EEE 468 | VLSI Laboratory | Design and Implementation of UART Communication Interface](https://github.com/Rafeed272/DESIGN-AND-IMPLEMENTATION-OF-UART-COMMUNICATION-INTERFACE)
-* [EEE 460 | Opto Electronics Laboratory | Real Time Spectral Feedback Control System for Phototherapy Device
+* [EEE 460 | Optoelectronics Laboratory | Real Time Spectral Feedback Control System for Phototherapy Device
 ](https://github.com/Rafeed272/Real-Time-Spectral-Feedback-Control-System-for-Phototherapy-Device)
